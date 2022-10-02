@@ -1,0 +1,5 @@
+This List Component is used to display an unordered List with some texts as List items. 
+WrappedListComponent creates an unordered list. It takes an array (items) of strings(text) as props. 
+For each item in the array, it maps through all and displays their content on the screen with a background color of 'Red'. 
+If one item is selected, then it displays it with a different background color (Green). 
+The user can click on an item and it will get selected and will get background color of Green.
